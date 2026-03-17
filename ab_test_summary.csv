@@ -1,0 +1,8 @@
+Metric,Control,Treatment
+Sample Size,5000,5000
+Conversions,514,638
+Conversion Rate,10.28%,12.76%
+Absolute Lift,-,2.48%
+Relative Lift,-,24.1%
+P-value,-,0.0001
+Significant?,-,Yes
